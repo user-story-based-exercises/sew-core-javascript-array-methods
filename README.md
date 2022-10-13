@@ -1,7 +1,7 @@
 SEW | CORE | JavaScript Array Methods
 
 ## User Story 1
-*As a content creator I need an easy to use system to sort an array in lexiacal order, so that I can created sorted list much faster.*
+*As a content creator I need an easy to use system to sort an array in lexical order, so that I can created sorted list much faster.*
 
 ### Acceptance Criteria
 - A function that takes an array of string as a parameter is available.
