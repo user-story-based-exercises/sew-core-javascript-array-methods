@@ -34,8 +34,7 @@ SEW | CORE | JavaScript Array Methods
 
 ### Acceptance Criteria
 - A function that takes an array of strings as a parameter is available.
-- The result is an array consisting of all lower case strings.
-
+- The result is an array consisting of all strings converted to lower case. 
 
 #### Links
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array?retiredLocale=de
