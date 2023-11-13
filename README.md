@@ -23,7 +23,7 @@ SEW | CORE | JavaScript Array Methods
 - The result is an array consisting only of words that start with a capital letter.
 
 ## User Story 4
-*As a mathematician I want to create a function, so that easily calculate modulo a given number for all values of an array.*
+*As a mathematician I want to create a function, so that I can easily calculate the modulo of all numbers in an array.*
 
 ### Acceptance Criteria
 - A function that takes an array of numbers and a value for the modulo calculation as parameters is available.
